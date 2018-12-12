@@ -2,6 +2,7 @@
 <head>
 <meta charset=utf-8">
 </head>
+		    <body>
 <?php
 
 /****************************************************************
@@ -76,3 +77,5 @@ imagepng($image);
 imagedestroy($image);
 
 ?>
+		    </body>
+		    </html>
